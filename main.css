@@ -1,7 +1,9 @@
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
-body{
 
+/* Incase we need our secondary font this is going to be the code: font-family: 'Lexend Deca', sans-serif;*/
+body{
+    font-family: 'Inter', sans-serif;
 }
 .main-container{
     display: flex;
