@@ -74,3 +74,4 @@ const proudOfThisFunc = () => {
 
 
 ## Acknowledgments
+Shoutout to the guys at Frontend Mentor for creating such a great platform for beginners to learn and practice their skills.
