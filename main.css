@@ -6,6 +6,11 @@ body{
     margin-top: 200px;
     background-color:hsl(233, 47%, 7%);
 }
+p{
+    color: grey;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
 .main-container{
     width: 600px;
     padding:100px;
@@ -28,7 +33,7 @@ body{
     display: flex;
     flex-direction: row;
     width: 50%;
-    gap:20px;
+    gap:100px;
     margin-top: 50px;
 }
 img{
