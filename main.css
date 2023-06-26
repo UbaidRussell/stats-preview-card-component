@@ -6,11 +6,11 @@ body{
     font-family: 'Inter', sans-serif;
 }
 .main-container{
-    border: 3px solid black;
     width: 600px;
     padding:100px;
     background-color: hsl(244, 38%, 16%);
     color:whitesmoke;
+    border-radius: 5px;
 }
 .heading{
     width: 500px;
