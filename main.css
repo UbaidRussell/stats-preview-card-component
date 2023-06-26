@@ -9,8 +9,14 @@ body{
 p{
     color: grey;
     font-family: 'Lexend Deca', sans-serif;
+    display: inline-block;
 }
-
+.container-paragraph{
+    margin-top: 10px;
+}
+h2{
+    display: inline;
+}
 .main-container{
     width: 600px;
     padding:100px;
