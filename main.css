@@ -22,7 +22,8 @@ h2{
 }
 .main-container{
     width: 600px;
-    padding:100px;
+    height: 400px;
+    padding:70px;
     background-color: hsl(244, 38%, 16%);
     color:whitesmoke;
     border-radius: 5px;
@@ -46,9 +47,17 @@ h2{
     gap:100px;
     margin-top: 50px;
 }
-img{
+.img{
+    background: url(./images/image-header-desktop.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 700px;
+    height: 541px;
     position: relative;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
     right: 20px;
+    background-color:hsl(277, 64%, 61%);
+    background-blend-mode: multiply;
 }
