@@ -6,8 +6,32 @@ body{
     font-family: 'Inter', sans-serif;
 }
 .main-container{
-    display: flex;
+    border: 3px solid black;
+    width: 600px;
+    padding:100px;
+    background-color: hsl(244, 38%, 16%);
+    color:whitesmoke;
+}
+.heading{
+    width: 500px;
+}
+.statement{
+    width:400px;
+    color:grey;
+    margin: 20px 0px;
+}
+.inner-container-main{
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    width: 50%;
+}
+.inner-container-second{
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    gap:20px;
+    margin-top: 50px;
+}
+img{
+    position: relative;
 }
