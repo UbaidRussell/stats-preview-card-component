@@ -63,9 +63,7 @@ const proudOfThisFunc = () => {
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
+- [is-it-possible-to-change-the-background-color-of-an-jpg-image-in-css](https://stackoverflow.com/questions/66942952/is-it-possible-to-change-the-background-color-of-an-jpg-image-in-css) - This is an amazing article which helped me finally understand how to change the background color of an image using CSS. I'd recommend it to anyone still learning this concept. The Secret is to use a div with the image as the background and then use the background-blend-mode property to change the color of the image.
 ## Author
 
 - Website - [UbaidRussell.com](https://ubaidrussell.com/)
