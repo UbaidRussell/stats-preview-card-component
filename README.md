@@ -45,17 +45,11 @@ Users should be able to:
 
 ### What I learned
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+This code snippet shows how I changed the background color of the image using CSS. I used a div with the image as the background and then used the background-blend-mode property to change the color of the image.
+
 ```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
+.img{
+    background-blend-mode: multiply;
 }
 ```
 
