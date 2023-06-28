@@ -62,3 +62,32 @@ h2{
     background-color:hsl(277, 64%, 61%);
     background-blend-mode: multiply;
 }
+
+/* Media Query for mobile version of our website */
+@media only screen and (min-width:100px) and (max-width: 475px){
+    body{
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
+    .main-container{
+        width: 300px;
+        margin:10px;
+        height: 500px;
+        padding:70px;
+        flex-direction: column;
+    } 
+    .statement{
+        width:200px;
+    }
+    .inner-container-second{
+        flex-wrap: wrap;
+        display: flex;
+        flex-direction: row;
+        width: 50%;
+        gap:300px;
+        margin-top: 50px;
+    }
+    .heading{
+        width: 300px;
+    }
+}
