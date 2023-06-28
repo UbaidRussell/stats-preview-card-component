@@ -78,6 +78,7 @@ h2{
         position: relative;
         top:150px;
         margin:10px;
+        padding-bottom:10px;
     } 
     .statement{
         width:200px;
