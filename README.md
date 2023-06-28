@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/UbaidRussell/stats-preview-card-component](https://github.com/UbaidRussell/stats-preview-card-component)
-- Live Site URL: [Not Live yet](#)
+- Live Site URL: [https://ubaidrussell.com/stats-preview-card-component/](https://ubaidrussell.com/stats-preview-card-component/)
 
 ## My process
 
