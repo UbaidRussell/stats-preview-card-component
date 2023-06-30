@@ -7,58 +7,51 @@ body{
     margin-bottom: 200px;
     background-color:hsl(233, 47%, 7%);
 }
-.word{
-    color: hsl(277, 64%, 61%);
-}
 p{
     color: grey;
     font-family: 'Lexend Deca', sans-serif;
     display: inline-block;
 }
-.container-paragraph{
-    margin-top: 10px;
-}
 h2{
     display: inline;
 }
 .main-container{
-    width: 600px;
+    display: flex;
     height: 400px;
     padding:70px;
     background-color: hsl(244, 38%, 16%);
     color:whitesmoke;
     border-radius: 5px;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
 }
-.heading{
-    width: 500px;
-}
-.statement{
-    width:400px;
-    color:grey;
-    margin: 10px 0px;
-    line-height: 1.8;
-}
+.first-container{
 
-.inner-container-second{
+}
+.first-container-top{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+.first-container-bottom{
     display: flex;
     flex-direction: row;
-    width: 50%;
-    gap:100px;
-    margin-top: 50px;
+    width: 400px;
+    justify-content: space-between;
+    margin-top: 20px;
 }
 .img{
     background: url(./images/image-header-desktop.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    width: 700px;
-    height: 541px;
+    width: 400px;
+    height: 500px;
+    padding:20px;
     position: relative;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
-    right: 20px;
+    left: 200px;
     background-color:hsl(277, 64%, 61%);
     background-blend-mode: multiply;
 }
@@ -81,21 +74,6 @@ h2{
         padding-bottom:100px;
         text-align: center;
     } 
-    .statement{
-        width:200px;
-    }
-    .inner-container-second{
-        display: flex;
-        text-align: center;
-        flex-wrap: wrap;
-        flex-direction: row;
-        width: 50%;/*Test*/
-        gap:50px;
-        margin-top: 50px;
-    }
-    .heading{
-        width: 300px;
-    }
     .img{
         position: absolute;
         background: url(./images/image-header-desktop.jpg);
