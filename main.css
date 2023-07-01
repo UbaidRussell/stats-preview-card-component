@@ -65,23 +65,24 @@ p{
         align-items: center;
         margin-top: 50px;
         margin-bottom: 50px;
-        width: 300px;
+        width: 320px;
+        padding-left:10vw;
     }
     .statement{
         text-align: center;
         width: 300px;
         padding-right: 0px;
+        padding-left: 10vw;
     }
     .main-container{
-        width: 350px;
-        margin:10px;
+        width: 325px;
+
         height: 1000px;
-        padding:70px;
+        padding:10px;
         padding-top:0px;
         flex-direction: column;
         position: relative;
         top:150px;
-        margin:10px;
         padding-bottom:100px;
         text-align: center;
         top: 200px;
@@ -104,7 +105,7 @@ p{
         background-repeat: no-repeat;
         width:100%;
         height: 300px;
-        left: 10px;
+        left: 0px;
         background-color:hsl(277, 64%, 61%);
         background-blend-mode: multiply;
         border-top-left-radius: 10px;
