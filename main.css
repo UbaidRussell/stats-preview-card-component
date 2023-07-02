@@ -56,26 +56,23 @@ p{
 }
 
 /* Media Query for mobile version of our website */
-@media only screen and (min-width:100px) and (max-width: 475px){
+@media only screen and (min-width:100px) and (max-width: 600px){
     body{
         margin-top: 0px;
         margin-bottom: 100px;
     }
     .header{
+        position: relative;
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
         margin-top: 50px;
         margin-bottom: 50px;
-        width: 320px;
-        padding-left:10vw;
     }
     .statement{
+        position: relative;
         text-align: center;
-        width: 300px;
-        padding-right: 0px;
-        padding-left: 10vw;
     }
     .main-container{
         width: 55vw;
@@ -84,9 +81,9 @@ p{
         padding-top:0px;
         flex-direction: column;
         position: relative;
-        padding-bottom:175px;
+        padding-bottom:370px;
         text-align: center;
-        top: 100px;
+        top: 200px;
     } 
     .first-container-top{
         padding-top:300px;
