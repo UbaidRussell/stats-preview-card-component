@@ -30,7 +30,7 @@ p{
 .first-container-top{
     display: flex;
     flex-direction: column;
-    width: 30vw;
+    width: 40vw;
 }
 .first-container-bottom{
     display: flex;
@@ -87,12 +87,14 @@ p{
     } 
     .first-container-top{
         padding-top:300px;
+        width: 50vw;
     }
     .first-container-bottom{
         flex-direction: column;
         justify-content: center;
         margin-bottom: 50px;
         gap:20px;
+        width: 50vw;
     }
     .img{
         position: absolute;
