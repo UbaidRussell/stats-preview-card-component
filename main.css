@@ -13,7 +13,7 @@ p{
 }
 .main-container{
     display: flex;
-    height: 61vh;
+    height: 50vh;
     padding:70px;
     background-color: hsl(244, 38%, 16%);
     color:whitesmoke;
@@ -42,7 +42,7 @@ p{
     background-position: center;
     background-repeat: no-repeat;
     width: 500px;
-    height: 500px;
+    height: 65vh;
     padding:20px;
     position: relative;
     border-top-right-radius: 10px;
