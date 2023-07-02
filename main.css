@@ -7,6 +7,9 @@ body{
     margin-bottom: 100px;
     background-color:hsl(233, 47%, 7%);
 }
+.insight{
+    color: hsl(277, 64%, 61%);
+}
 p{
     color: grey;
     font-family: 'Lexend Deca', sans-serif;
