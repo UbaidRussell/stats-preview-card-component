@@ -58,6 +58,9 @@ This code snippet shows how I changed the background color of the image using CS
 ### Useful resources
 
 - [is-it-possible-to-change-the-background-color-of-an-jpg-image-in-css](https://stackoverflow.com/questions/66942952/is-it-possible-to-change-the-background-color-of-an-jpg-image-in-css) - This is an amazing article which helped me finally understand how to change the background color of an image using CSS. I'd recommend it to anyone still learning this concept. The Secret is to use a div with the image as the background and then use the background-blend-mode property to change the color of the image.
+
+- [Media Queries: How to target desktop, tablet, and mobile?](https://stackoverflow.com/questions/6370690/media-queries-how-to-target-desktop-tablet-and-mobile) - This helped me understand how to use media queries to target different devices. I'd recommend it to anyone still learning this concept.
+
 ## Author
 
 - Website - [UbaidRussell.com](https://ubaidrussell.com/)
