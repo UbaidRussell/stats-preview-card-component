@@ -16,6 +16,7 @@ My solution to the [Stats preview card component challenge on Frontend Mentor](h
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
+  Stats preview card component challenge to practice my HTML and CSS skills. I used a mobile-first workflow and used media queries to make the page responsive for desktops and tablets.
 
 ### The challenge
 
@@ -33,6 +34,8 @@ Users should be able to:
 - Live Site URL: [https://ubaidrussell.com/stats-preview-card-component/](https://ubaidrussell.com/stats-preview-card-component/)
 
 ## My process
+
+  Took a mobile-first approach and used media queries to make the page responsive for desktops and tablets. I used CSS Grid to position the elements on the page. I used the background-blend-mode property to change the color of the image.
 
 ### Built with
 
@@ -54,6 +57,8 @@ This code snippet shows how I changed the background color of the image using CS
 ```
 
 ### Continued development
+
+I want to continue to learn more about CSS Grid and Flexbox. I also want to learn more about CSS animations and transitions.
 
 ### Useful resources
 
